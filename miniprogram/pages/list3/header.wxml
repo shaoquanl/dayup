@@ -1,0 +1,11 @@
+<!-- header -->
+<template name="header">
+	<view class="header">
+		<view class="text">
+			<view class="title">{{site.title}}</view>
+		</view>
+		<view class="logo">
+			<image src="https://shaoquanl.github.io/98c4f614f8a897263d8a4c4314483fe1.jpg" />
+		</view>
+	</view>
+</template>
